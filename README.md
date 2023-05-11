@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👋 Hello! Welcome to my Github profile.
+
 <div>
 <a href="https://github.com/joaoP-ribeiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoP-ribeiro&layout=compact&langs_count=7&theme=dracula"/>
