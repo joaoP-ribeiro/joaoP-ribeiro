@@ -13,7 +13,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?&style=for-the-badge&logo=JavaScript3&logoColor=white"/>
 </div><br><br>
 </div>
 <div align="center">
