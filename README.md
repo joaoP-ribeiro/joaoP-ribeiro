@@ -4,7 +4,7 @@
 
 | STATS | LANGUAGES |
 | ------------ | ------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=joaoP-ribeiro&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoP-ribeiro&layout=compact&theme=dark&hide_border=true&locale=en" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=joaop-ribeiro&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoP-ribeiro&layout=compact&theme=dark&hide_border=true&locale=en" /> |
 </div>
   
   
