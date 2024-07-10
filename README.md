@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages ​​and tools I've used:</h3>
 <h4 align="left">Front End:</h4>
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px;">
