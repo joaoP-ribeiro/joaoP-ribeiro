@@ -5,8 +5,12 @@
 <p align="left">
 </p>
 
+<div style="border: none;", align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaop-ribeiro&show_icons=true&theme=dracula)
+| STATS | LANGUAGES |
+| ------------ | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=joaop-ribeiro&show_icons=true&theme=dracula&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-ribeiro&layout=compact&theme=dracula&hide_border=true&locale=en" /> |
+</div>
 
 <h3 align="left">Technologies I've used:</h3>
   <h4 align="left">Front End:</h4>
